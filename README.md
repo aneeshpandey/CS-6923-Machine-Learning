@@ -1,2 +1,2 @@
 # CS-6923-Machine-Learning
-It contains codes developed for the project in my coursework
+Source code of Machine Learning project - Twitter Dataset: Human or Bot
